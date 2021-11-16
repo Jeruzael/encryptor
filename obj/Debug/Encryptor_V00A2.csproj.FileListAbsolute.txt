@@ -1,0 +1,10 @@
+C:\Users\Jeruzael\source\repos\Encryptor_V00A2\bin\Debug\Encryptor_V00A2.exe.config
+C:\Users\Jeruzael\source\repos\Encryptor_V00A2\bin\Debug\Encryptor_V00A2.exe
+C:\Users\Jeruzael\source\repos\Encryptor_V00A2\bin\Debug\Encryptor_V00A2.pdb
+C:\Users\Jeruzael\source\repos\Encryptor_V00A2\obj\Debug\Encryptor_V00A2.csprojAssemblyReference.cache
+C:\Users\Jeruzael\source\repos\Encryptor_V00A2\obj\Debug\Encryptor_V00A2.Form1.resources
+C:\Users\Jeruzael\source\repos\Encryptor_V00A2\obj\Debug\Encryptor_V00A2.Properties.Resources.resources
+C:\Users\Jeruzael\source\repos\Encryptor_V00A2\obj\Debug\Encryptor_V00A2.csproj.GenerateResource.cache
+C:\Users\Jeruzael\source\repos\Encryptor_V00A2\obj\Debug\Encryptor_V00A2.csproj.CoreCompileInputs.cache
+C:\Users\Jeruzael\source\repos\Encryptor_V00A2\obj\Debug\Encryptor_V00A2.exe
+C:\Users\Jeruzael\source\repos\Encryptor_V00A2\obj\Debug\Encryptor_V00A2.pdb
