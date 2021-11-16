@@ -1,0 +1,14 @@
+C:\Users\Jeruzael\source\repos\encryptor\bin\Debug\encryptor.exe.config
+C:\Users\Jeruzael\source\repos\encryptor\bin\Debug\encryptor.exe
+C:\Users\Jeruzael\source\repos\encryptor\bin\Debug\encryptor.pdb
+C:\Users\Jeruzael\source\repos\encryptor\obj\Debug\encryptor.csprojAssemblyReference.cache
+C:\Users\Jeruzael\source\repos\encryptor\obj\Debug\encryptor.Form1.resources
+C:\Users\Jeruzael\source\repos\encryptor\obj\Debug\encryptor.Properties.Resources.resources
+C:\Users\Jeruzael\source\repos\encryptor\obj\Debug\encryptor.csproj.GenerateResource.cache
+C:\Users\Jeruzael\source\repos\encryptor\obj\Debug\encryptor.csproj.CoreCompileInputs.cache
+C:\Users\Jeruzael\source\repos\encryptor\obj\Debug\encryptor.exe
+C:\Users\Jeruzael\source\repos\encryptor\obj\Debug\encryptor.pdb
+C:\Users\Jeruzael\source\repos\encryptor\bin\Debug\encryptor.exe.manifest
+C:\Users\Jeruzael\source\repos\encryptor\bin\Debug\encryptor.application
+C:\Users\Jeruzael\source\repos\encryptor\obj\Debug\encryptor.exe.manifest
+C:\Users\Jeruzael\source\repos\encryptor\obj\Debug\encryptor.application
